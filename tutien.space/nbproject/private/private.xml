@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="6">
+        <file>
+            <url>src/barcoll/consts/ConstNpc.java</url>
+            <bookmark id="4">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/com/girlkun/models/npc/NpcFactory.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/barcoll/models/npc/IAtionNpc.java</url>
+            <bookmark id="5">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Downloads/masewbyluw/masewbyluw/src/tutien/models/map/FightBahatmit/FightBossBahatmit.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/masewbyluw/masewbyluw/data/config/girlkundb.properties</file>
+        </group>
+    </open-files>
+</project-private>

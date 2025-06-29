@@ -1,0 +1,1 @@
+barcoll.models.map.WayPoint

@@ -1,0 +1,14 @@
+barcoll.models.Template$SkillTemplate
+barcoll.models.Template$HeadAvatar
+barcoll.models.Template$MobTemplate
+barcoll.models.Template$ItemLuckyRound
+barcoll.models.Template$Part
+barcoll.models.Template$PartDetail
+barcoll.models.Template$ItemOptionLuckyRound
+barcoll.models.Template$NpcTemplate
+barcoll.models.Template$FlagBag
+barcoll.models.Template
+barcoll.models.Template$AchievementTemplate
+barcoll.models.Template$ItemTemplate
+barcoll.models.Template$ItemOptionTemplate
+barcoll.models.Template$MapTemplate

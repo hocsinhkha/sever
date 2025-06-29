@@ -1,0 +1,1 @@
+barcoll.services.ItemMapService
